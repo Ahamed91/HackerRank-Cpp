@@ -1,0 +1,30 @@
+Given a positive integer , do the following:
+
+If 1<=n<=9, print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
+If n>9, print Greater than 9.
+Input Format
+A single integer,n.
+Output Format
+If 1<=n<=9, then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.);
+otherwise, print Greater than 9.
+
+Sample Input
+5
+Sample Output
+five
+Explanation
+five is the English word for the number .
+
+Sample Input
+8
+Sample Output
+eight
+Explanation
+eight is the English word for the number .
+
+Sample Input
+44
+Sample Output
+Greater than 9
+Explanation
+44 is greater than 9, so we print Greater than 9.
